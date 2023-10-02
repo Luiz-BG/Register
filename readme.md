@@ -1,5 +1,5 @@
 # Registrador
-Um projeto criado durante o ano letivo da FIAP, onde é pedido um código capaz de registrar diversas informações de uma pessoa e armazena-las em um banco de dados terceiro ou em uma array 
+Um projeto criado durante o ano letivo da FIAP, onde é pedido um código capaz de registrar diversas informações de uma pessoa interessada em doar dinheiro à uma ONG e armazena-las em um banco de dados terceiro ou em uma array 
 ## Índice
 - <a href="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#tecnologias">Tecnologia Utilizada</a>
